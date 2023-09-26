@@ -47,4 +47,9 @@ public class WarlockTest {
         warlock.familiarDefends(goblin);
         assertEquals(70, goblin.getHealthPoints());
     }
+    @Test
+    public void healsWhenCastsSpell(){
+        warlock.cast(goblin);
+        assertEquals(110, warlock.getHealthPoints());
+    }
 }
