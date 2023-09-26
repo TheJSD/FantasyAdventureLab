@@ -1,7 +1,6 @@
 package org.example.characters.players.fighters;
 
-import org.example.characters.enemies.Enemy;
-import org.example.characters.equipment.fighterweapons.IWeapon;
+import org.example.characters.players.fighters.weapons.IWeapon;
 
 public class Dwarf extends Fighter{
     private int drunkeness;

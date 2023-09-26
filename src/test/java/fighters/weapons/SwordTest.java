@@ -1,7 +1,7 @@
 package fighters.weapons;
 
 import org.example.characters.enemies.Skeleton;
-import org.example.characters.equipment.fighterweapons.Sword;
+import org.example.characters.players.fighters.weapons.Sword;
 import org.junit.Before;
 import org.junit.Test;
 

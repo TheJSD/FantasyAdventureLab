@@ -1,7 +1,7 @@
 package org.example.characters.players.fighters;
 
 import org.example.characters.enemies.Enemy;
-import org.example.characters.equipment.fighterweapons.IWeapon;
+import org.example.characters.players.fighters.weapons.IWeapon;
 import org.example.characters.players.Player;
 
 public abstract class Fighter extends Player {

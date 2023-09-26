@@ -1,4 +1,4 @@
-package org.example.characters.equipment.fighterweapons;
+package org.example.characters.players.fighters.weapons;
 
 import org.example.characters.enemies.Enemy;
 

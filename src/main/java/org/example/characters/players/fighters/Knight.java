@@ -1,6 +1,6 @@
 package org.example.characters.players.fighters;
 
-import org.example.characters.equipment.fighterweapons.IWeapon;
+import org.example.characters.players.fighters.weapons.IWeapon;
 
 public class Knight extends Fighter{
     private int armour;

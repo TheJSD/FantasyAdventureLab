@@ -1,8 +1,8 @@
 package fighters;
 
 import org.example.characters.enemies.Goblin;
-import org.example.characters.equipment.fighterweapons.Axe;
-import org.example.characters.equipment.fighterweapons.Sword;
+import org.example.characters.players.fighters.weapons.Axe;
+import org.example.characters.players.fighters.weapons.Sword;
 import org.example.characters.players.fighters.Knight;
 import org.junit.Before;
 import org.junit.Test;
