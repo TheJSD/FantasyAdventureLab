@@ -1,6 +1,5 @@
 package enemies;
 
-import org.example.characters.enemies.Goblin;
 import org.example.characters.enemies.Skeleton;
 import org.junit.Before;
 import org.junit.Test;
